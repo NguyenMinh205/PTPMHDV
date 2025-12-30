@@ -8,9 +8,16 @@ using PTPMHDV.Models;
 
 namespace PTPMHDV.Controllers
 {
+    [RoutePrefix("api/CustomerOrders")]
     public class CustomerOrdersController : ApiController
     {
         QuanLyBanHangEntities1 db = new QuanLyBanHangEntities1();
+
+        public CustomerOrdersController()
+        {
+            db.Configuration.ProxyCreationEnabled = false;
+            db.Configuration.LazyLoadingEnabled = false;
+        }
 
         //1 lấy tất cả đơn hàng và tổng tiền
         [HttpGet]

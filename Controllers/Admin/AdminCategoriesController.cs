@@ -8,9 +8,16 @@ using PTPMHDV.Models;
 
 namespace PTPMHDV.Controllers
 {
+    [RoutePrefix("api/AdminCategories")]
     public class AdminCategoriesController : ApiController
     {
         QuanLyBanHangEntities1 db = new QuanLyBanHangEntities1();
+
+        public AdminCategoriesController()
+        {
+            db.Configuration.ProxyCreationEnabled = false;
+            db.Configuration.LazyLoadingEnabled = false;
+        }
 
         //17 lấy toàn bộ danh mục
         [HttpGet]
@@ -35,7 +42,6 @@ namespace PTPMHDV.Controllers
         [Route("ThemDanhMuc")]
         public bool ThemDanhMuc(string ma, string ten, string mota = null)
         {
-
             DANHMUC dm = db.DANHMUCs.FirstOrDefault(x => x.MaDM == ma);
             if (dm == null)
             {

@@ -41,15 +41,14 @@ namespace PTPMHDV.Controllers
         public List<DONHANG> SearchBySDT(string sdt)
         {
             return db.DONHANGs.Where(x => x.SDTNhanHang.Contains(sdt)).ToList();
-        }
+        }   
 
+        //4. Tìm kiếm theo Mã Người Dùng
         [HttpGet]
         [Route("api/donhang/search/user/{maND}")]
         public List<DONHANG> SearchByMaND(string maND)
         {
-            return db.DONHANGs
-                     .Where(x => x.MaND.Contains(maND))
-                     .ToList();
+            return db.DONHANGs.Where(x => x.MaND.Contains(maND)).ToList();
         }
 
         // 5. Tìm kiếm theo Ngày (dd-MM-yyyy)
@@ -74,8 +73,7 @@ namespace PTPMHDV.Controllers
         [Route("api/donhang/detail/{maDH}")]
         public IHttpActionResult GetDetail(string maDH)
         {
-            var donHang = db.DONHANGs
-                            .Include("CHITIETDONHANGs.SANPHAM")
+            var donHang = db.DONHANGs.Include("CHITIETDONHANGs.SANPHAM")
                             .Include(d => d.NGUOIDUNG) 
                             .FirstOrDefault(x => x.MaDonHang == maDH);
 
@@ -102,7 +100,6 @@ namespace PTPMHDV.Controllers
                     }
                 }
             }
-
             return Ok(donHang);
         }
 
@@ -153,7 +150,7 @@ namespace PTPMHDV.Controllers
             }
         }
 
-        // 9. Thống kê (Doanh thu & Số lượng theo trạng thái)
+        // 9. Thống kê Doanh thu
         [HttpGet]
         [Route("api/thongke/doanhthu")]
         public decimal GetTotalRevenue()
@@ -162,6 +159,7 @@ namespace PTPMHDV.Controllers
                 .Sum(x => (decimal?)x.TongTien) ?? 0;
         }
 
+        //10. Thống kê số lượng đơn hàng theo trạng thái
         [HttpGet]
         [Route("api/thongke/count-status")]
         public IHttpActionResult GetOrderCounts()
@@ -169,6 +167,14 @@ namespace PTPMHDV.Controllers
             var data = db.DONHANGs.GroupBy(x => x.TrangThai)
                 .Select(g => new { TrangThai = g.Key, SoLuong = g.Count() }).ToList();
             return Ok(data);
+        }
+
+        //11. Lịch sử mua hàng theo Mã Người Dùng
+        [HttpGet]
+        [Route("api/taikhoan/{maND}/orders")]
+        public IEnumerable<DONHANG> GetOrdersByUser(string maND)
+        {
+            return db.DONHANGs.Where(x => x.MaND == maND).OrderByDescending(x => x.NgayDatHang).ToList();
         }
     }
 }

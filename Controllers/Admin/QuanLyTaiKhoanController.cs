@@ -109,13 +109,5 @@ namespace PTPMHDV.Controllers
             db.SaveChanges();
             return Ok(new { Message = "Đã đổi trạng thái", NewStatus = user.TrangThai });
         }
-
-        // 8. Lịch sử mua hàng
-        [HttpGet]
-        [Route("api/taikhoan/{maND}/orders")]
-        public IEnumerable<DONHANG> GetOrdersByUser(string maND)
-        {
-            return db.DONHANGs.Where(x => x.MaND == maND).OrderByDescending(x => x.NgayDatHang).ToList();
-        }
     }
 }

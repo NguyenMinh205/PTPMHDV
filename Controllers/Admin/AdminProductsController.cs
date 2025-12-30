@@ -8,9 +8,16 @@ using PTPMHDV.Models;
 
 namespace PTPMHDV.Controllers
 {
+    [RoutePrefix("api/AdminProducts")]
     public class AdminProductsController : ApiController
     {
         QuanLyBanHangEntities1 db = new QuanLyBanHangEntities1();
+
+        public AdminProductsController()
+        {
+            db.Configuration.ProxyCreationEnabled = false;
+            db.Configuration.LazyLoadingEnabled = false;
+        }
 
         //9 lấy toàn bộ sản phẩm quản trị
         [HttpGet]
@@ -77,8 +84,8 @@ namespace PTPMHDV.Controllers
 
         //13 xóa sản phẩm
         [HttpDelete]
-        [Route("XoaSANPHAM")]
-        public bool XoaSANPHAM(string ma)
+        [Route("XoaSanPham")]
+        public bool XoaSanPham(string ma)
         {
             SANPHAM sp = db.SANPHAMs.FirstOrDefault(x => x.MaSP == ma);
             if (sp != null)
@@ -92,8 +99,8 @@ namespace PTPMHDV.Controllers
 
         //14 lấy sản phẩm theo danh mục
         [HttpGet]
-        [Route("LaySANPHAMTheoDanhMuc")]
-        public IEnumerable<SANPHAM> LaySANPHAMTheoDanhMuc(string madm)
+        [Route("LaySanPhamTheoDanhMuc")]
+        public IEnumerable<SANPHAM> LaySanPhamTheoDanhMuc(string madm)
         {
             IEnumerable<SANPHAM> query = db.SANPHAMs.Where(x => x.MaDM == madm);
             return query;
@@ -101,8 +108,8 @@ namespace PTPMHDV.Controllers
 
         //15 lấy sản phẩm theo tên
         [HttpGet]
-        [Route("TimKiemSANPHAMTheoTen")]
-        public IEnumerable<SANPHAM> TimKiemSANPHAMTheoTen(string ten)
+        [Route("TimKiemSanPhamTheoTen")]
+        public IEnumerable<SANPHAM> TimKiemSanPhamTheoTen(string ten)
         {
             IEnumerable<SANPHAM> query = db.SANPHAMs.Where(x => x.TenSP.Contains(ten));
             return query;

@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "D:\\CSharp\\PTPMHDV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\xemchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\xemchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\customerorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\customerorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\user\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\admin\\quanlydonhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\admin\\quanlydonhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\admin\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\admin\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\admin\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\admin\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\admin\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|d:\\csharp\\ptpmhdv\\controllers\\admin\\quanlytaikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\admin\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\admin\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\admin\\quanlydonhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\admin\\quanlydonhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\admin\\quanlytaikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\admin\\quanlytaikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\xemchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\xemchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|D:\\CSharp\\PTPMHDV\\controllers\\user\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D7D8C-3E3E-4EF2-BC06-6FE13D92CE28}|PTPMHDV.csproj|solutionrelative:controllers\\user\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -72,27 +72,13 @@
               "RelativeDocumentMoniker": "Controllers\\User\\AuthController.cs",
               "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\AuthController.cs",
               "RelativeToolTip": "Controllers\\User\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:11.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:11.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerOrdersController.cs",
-              "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\CustomerOrdersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\User\\CustomerOrdersController.cs",
-              "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\CustomerOrdersController.cs",
-              "RelativeToolTip": "Controllers\\User\\CustomerOrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:09.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "DanhMucController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\DanhMucController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\DanhMucController.cs",
@@ -100,12 +86,11 @@
               "RelativeToolTip": "Controllers\\User\\DanhMucController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:08.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:08.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "GioHangController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\GioHangController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\GioHangController.cs",
@@ -113,12 +98,11 @@
               "RelativeToolTip": "Controllers\\User\\GioHangController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:03.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:03.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TimKiemController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\TimKiemController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\TimKiemController.cs",
@@ -126,12 +110,11 @@
               "RelativeToolTip": "Controllers\\User\\TimKiemController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:01.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:01.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "XemChiTietController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\XemChiTietController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\XemChiTietController.cs",
@@ -139,12 +122,11 @@
               "RelativeToolTip": "Controllers\\User\\XemChiTietController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:00.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:00.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\AccountController.cs",
@@ -152,12 +134,11 @@
               "RelativeToolTip": "Controllers\\User\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:11.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:11.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\CartController.cs",
@@ -165,70 +146,81 @@
               "RelativeToolTip": "Controllers\\User\\CartController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:10.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:45:10.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\User\\OrderController.cs",
               "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\OrderController.cs",
               "RelativeToolTip": "Controllers\\User\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:45:02.282Z",
+              "WhenOpened": "2025-12-28T08:45:02.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerOrdersController.cs",
+              "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\CustomerOrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\User\\CustomerOrdersController.cs",
+              "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\User\\CustomerOrdersController.cs",
+              "RelativeToolTip": "Controllers\\User\\CustomerOrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:45:09.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "AdminProductsController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\AdminProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\Admin\\AdminProductsController.cs",
               "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\AdminProductsController.cs",
               "RelativeToolTip": "Controllers\\Admin\\AdminProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T08:44:20.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "AdminCategoriesController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\AdminCategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\Admin\\AdminCategoriesController.cs",
               "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\AdminCategoriesController.cs",
               "RelativeToolTip": "Controllers\\Admin\\AdminCategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T08:44:19.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "QuanLyDonHangController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\QuanLyDonHangController.cs",
               "RelativeDocumentMoniker": "Controllers\\Admin\\QuanLyDonHangController.cs",
               "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\QuanLyDonHangController.cs",
               "RelativeToolTip": "Controllers\\Admin\\QuanLyDonHangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T08:44:19.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "QuanLyTaiKhoanController.cs",
               "DocumentMoniker": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\QuanLyTaiKhoanController.cs",
               "RelativeDocumentMoniker": "Controllers\\Admin\\QuanLyTaiKhoanController.cs",
               "ToolTip": "D:\\CSharp\\PTPMHDV\\Controllers\\Admin\\QuanLyTaiKhoanController.cs",
               "RelativeToolTip": "Controllers\\Admin\\QuanLyTaiKhoanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T08:44:21.974Z",
               "EditorCaption": ""
